@@ -40,6 +40,9 @@ let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [
 	'proxyip.aliyun.fxxk.dedyn.io',
+	'proxyip.kr.fxxk.dedyn.io',
+	'proxyip.us.fxxk.dedyn.io',
+	'proxyip.jp.fxxk.dedyn.io',
 	'proxyip.multacom.fxxk.dedyn.io',
 	'proxyip.vultr.fxxk.dedyn.io',
 ];
