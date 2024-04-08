@@ -5,8 +5,8 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#官方优选域名',
-	'cloudflare.cfgo.cc#优选官方线路',
+	//'icook.tw:2053#官方优选域名',
+	//'cloudflare.cfgo.cc#优选官方线路',
 ];
 
 // 设置优选地址api接口
@@ -43,14 +43,17 @@ let proxyIPs = [
 	'proxyip.kr.fxxk.dedyn.io',
 	'proxyip.us.fxxk.dedyn.io',
 	'proxyip.jp.fxxk.dedyn.io',
+	'proxyip.sg.fxxk.dedyn.io',
 	'proxyip.multacom.fxxk.dedyn.io',
 	'proxyip.vultr.fxxk.dedyn.io',
+	'proxyip.oracle.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
 	{ proxyIP: "proxyip.aliyun.fxxk.dedyn.io", type: "HK" },
 	{ proxyIP: "proxyip.kr.fxxk.dedyn.io", type: "KR" },
 	{ proxyIP: "proxyip.us.fxxk.dedyn.io", type: "US" },
 	{ proxyIP: "proxyip.jp.fxxk.dedyn.io", type: "JP" },
+	{ proxyIP: "proxyip.sg.fxxk.dedyn.io", type: "JP" },
 ];
 let BotToken ='';
 let ChatID =''; 
