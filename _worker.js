@@ -40,6 +40,7 @@ let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [
 	'proxyip.aliyun.fxxk.dedyn.io',
+	'proxyip.hk.fxxk.dedyn.io',
 	'proxyip.kr.fxxk.dedyn.io',
 	'proxyip.us.fxxk.dedyn.io',
 	'proxyip.jp.fxxk.dedyn.io',
@@ -49,7 +50,7 @@ let proxyIPs = [
 	'proxyip.oracle.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
-	{ proxyIP: "proxyip.aliyun.fxxk.dedyn.io", type: "HK" },
+	{ proxyIP: "proxyip.hk.fxxk.dedyn.io", type: "HK" },
 	{ proxyIP: "proxyip.kr.fxxk.dedyn.io", type: "KR" },
 	{ proxyIP: "proxyip.us.fxxk.dedyn.io", type: "US" },
 	{ proxyIP: "proxyip.jp.fxxk.dedyn.io", type: "JP" },
