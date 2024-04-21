@@ -54,7 +54,7 @@ let CMproxyIPs = [
 	{ proxyIP: "proxyip.kr.fxxk.dedyn.io", type: "KR" },
 	{ proxyIP: "proxyip.us.fxxk.dedyn.io", type: "US" },
 	{ proxyIP: "proxyip.jp.fxxk.dedyn.io", type: "JP" },
-	{ proxyIP: "proxyip.sg.fxxk.dedyn.io", type: "JP" },
+	{ proxyIP: "proxyip.sg.fxxk.dedyn.io", type: "SG" },
 ];
 let BotToken ='';
 let ChatID =''; 
